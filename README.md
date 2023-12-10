@@ -9,7 +9,7 @@ statistical topics published in the journal Kardiotechnik
 <https://dgfkt.de/zeitschriftkardiotechnik>.
 
 \
-\
+
 ## Die Tutorien - The Tutorials:
 
 T1: Der Box- und Whisker-Plot - The Box- and Whisker-Plot
