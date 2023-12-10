@@ -10,7 +10,7 @@ statistical topics published in the journal Kardiotechnik
 
 \
 \
-Die Tutorien - The Tutorials:
+## Die Tutorien - The Tutorials:
 
 T1: Der Box- und Whisker-Plot - The Box- and Whisker-Plot
 
