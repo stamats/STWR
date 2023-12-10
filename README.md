@@ -17,21 +17,21 @@ Die einzelnen Tutorien finden sich in den entsprechenden Ordnern (T1, T2, ...).
 The individual tutorials can be found in the corresponding folders (T1, T2, ...).
 
 
-T1: Der Box- und Whisker-Plot - The Box- and Whisker-Plot
+T1: Der Box- und Whisker-Plot - The Box- and Whisker-Plot (1/2022)
 
-T2: Datenorganisation mit Tabellenkalkulationsprogrammen - Data Organization with Spreadsheet Programs 
+T2: Datenorganisation mit Tabellenkalkulationsprogrammen - Data Organization with Spreadsheet Programs (2/2022)
 
-T3: Konfidenzintervalle - Confidence Intervals
+T3: Konfidenzintervalle - Confidence Intervals (3/2022)
 
-T4: Korrelationen - Correlations
+T4: Korrelationen - Correlations (4/2022)
 
-T5: Kontingenzkoeffizienten - Contingency Coefficients
+T5: Kontingenzkoeffizienten - Contingency Coefficients (1/2023)
 
-T6: Methodenvergleiche - Comparisons of Methods
+T6: Methodenvergleiche - Comparisons of Methods (2/2023)
 
-T7: Statistische Signifikanztests - Statistical Significance Tests
+T7: Statistische Signifikanztests - Statistical Significance Tests (3/2023)
 
-T8: t-Tests und Alternativen - t-Tests and Alternatives
+T8: t-Tests und Alternativen - t-Tests and Alternatives (4/2023)
 
-T9: 1-Weg ANOVA - 1-Way ANOVA
+T9: 1-Weg ANOVA - 1-Way ANOVA (1/2024)
 
