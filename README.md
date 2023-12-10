@@ -12,6 +12,11 @@ statistical topics published in the journal Kardiotechnik
 
 ## Die Tutorien - The Tutorials:
 
+Die einzelnen Tutorien finden sich in den entsprechenden Ordnern (T1, T2, ...).
+
+The individual tutorials can be found in the corresponding folders (T1, T2, ...).
+
+
 T1: Der Box- und Whisker-Plot - The Box- and Whisker-Plot
 
 T2: Datenorganisation mit Tabellenkalkulationsprogrammen - Data Organization with Spreadsheet Programs 
