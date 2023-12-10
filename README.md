@@ -9,6 +9,7 @@ statistical topics published in the journal Kardiotechnik
 <https://dgfkt.de/zeitschriftkardiotechnik>.
 
 
+
 T1: Der Box- und Whisker-Plot - The Box- and Whisker-Plot
 
 T2: Datenorganisation mit Tabellenkalkulationsprogrammen - Data Organization with Spreadsheet Programs 
