@@ -8,7 +8,7 @@ This repository contains short tutorials on various statistical
 statistical topics published in the journal Kardiotechnik
 <https://dgfkt.de/zeitschriftkardiotechnik>.
 
-\
+
 
 ## Die Tutorien - The Tutorials:
 
