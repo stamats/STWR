@@ -1,6 +1,4 @@
-# Statistiktutorien mit R - Statistics Tutorials with R
-
-<p align="left"><img src="hex-STWR.png" width="300"></p>
+# Statistiktutorien mit R - Statistics Tutorials with R <img src="hex-STWR.png" width="200">
 
 In diesem Repository finden sich kurze Tutorien zu verschiedenen statistischen Themen, 
 welche in der Zeitschrift Kardiotechnik <https://dgfkt.de/zeitschriftkardiotechnik> 
