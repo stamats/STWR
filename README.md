@@ -4,7 +4,7 @@
   <tr>
     <td><img src="hex-STWR.png" width="400"></td>
     <td>In diesem Repository finden sich kurze Tutorien zu verschiedenen statistischen Themen, welche in der Zeitschrift Kardiotechnik <https://dgfkt.de/zeitschriftkardiotechnik> erschienen sind.
-
+<p>
 This repository contains short tutorials on various statistical statistical topics published in the journal Kardiotechnik <https://dgfkt.de/zeitschriftkardiotechnik>.</td>
   </tr>
 </table>
