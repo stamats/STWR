@@ -19,7 +19,7 @@ T1: [Der Box- und Whisker-Plot - The Box- and Whisker-Plot (1/2022)](https://dgf
 
 T2: [Datenorganisation mit Tabellenkalkulationsprogrammen - Data Organization with Spreadsheet Programs (2/2022)](https://dgfkt.de/organisation/publikationen/statistik-teil-2-datenorganisation-mit-tabellenkalkulationsprogrammen/)
 
-T3: [Konfidenzintervalle - Confidence Intervals (3/2022)](https://dgfkt.de/organisation/publikationen/statistik-teil-3-konfidenzintervalle/)
+T3: [Konfidenzintervalle - Confidence Intervals (3/2022)](https://dgfkt.de/organisation/publikationen/statistik-teil-3-konfidenzintervalle/), [Supplement Bootstrap-Konfidenzintervalle](https://dgfkt.de/wp-content/uploads/Supplement-3-22.pdf)
 
 T4: [Korrelationen - Correlations (4/2022)](https://dgfkt.de/organisation/publikationen/statistik-teil-4-korrelationen/)
 
