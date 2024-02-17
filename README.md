@@ -31,4 +31,4 @@ T7: [Statistische Signifikanztests - Statistical Significance Tests (3/2023)](ht
 
 T8: [t-Tests und Alternativen - t-Tests and Alternatives (4/2023)](https://dgfkt.de/organisation/publikationen/statistik-teil-8-t-tests-und-alternativen/)
 
-T9: 1-Weg ANOVA - 1-Way ANOVA (1/2024)
+T9: [Die 1-Weg ANOVA - The 1-Way ANOVA t-Tests (1/2024)](https://dgfkt.de/organisation/publikationen/statistik-teil-9-die-1-weg-anova/)
