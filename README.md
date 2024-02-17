@@ -1,11 +1,11 @@
 # Statistiktutorien mit R - Statistics Tutorials with R <p align="center"><img src="hex-STWR.png" width="400"></p>
 
 In diesem Repository finden sich kurze Tutorien zu verschiedenen statistischen Themen, 
-welche in der Zeitschrift Kardiotechnik <https://dgfkt.de/zeitschriftkardiotechnik> 
-erschienen sind.
+welche in der Zeitschrift Die Perfusiologie (früher Kardiotechnik) 
+<https://dgfkt.de/zeitschriftkardiotechnik> erschienen sind.
 
 This repository contains short tutorials on various statistical statistical topics 
-published in the journal Kardiotechnik <https://dgfkt.de/zeitschriftkardiotechnik>.
+published in the journal Die Perfusiologie (formerly Kardiotechnik) <https://dgfkt.de/zeitschriftkardiotechnik>.
 
 
 ## Die Tutorien - The Tutorials:
