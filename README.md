@@ -33,8 +33,8 @@ T8: [t-Tests und Alternativen - t-Tests and Alternatives (4/2023)](https://dgfkt
 
 T9: [Die 1-Weg ANOVA - The 1-Way ANOVA (1/2024)](https://dgfkt.de/organisation/publikationen/statistik-teil-9-die-1-weg-anova/)
 
-T10: [Wichtige Tests für nominale Merkmale (2/2024)](https://dgfkt.de/organisation/publikationen/statistik-teil-10-wichtige-tests-fuer-nominale-merkmale/)
+T10: [Wichtige Tests für nominale Merkmale - Important Tests for Nominal Features (2/2024)](https://dgfkt.de/organisation/publikationen/statistik-teil-10-wichtige-tests-fuer-nominale-merkmale/)
 
-T11: Analyse der Überlebenszeit (3/2024)
+T11: Analyse der Überlebenszeit - Analysis of Survival Times (3/2024)
 
-T12: Fallzahlplanung (4/2024)
+T12: Fallzahlplanung - Sample Size Planning (4/2024)
