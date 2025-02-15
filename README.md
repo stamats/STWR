@@ -38,3 +38,5 @@ T10: [Wichtige Tests für nominale Merkmale - Important Tests for Nominal Featur
 T11: [Analyse der Überlebenszeit - Analysis of Survival Times (3/2024)](https://dgfkt.de/organisation/publikationen/statistik-teil-11-analyse-der-ueberlebenszeit-tutorial-3-2024/)
 
 T12: [Fallzahlplanung - Sample Size Planning (4/2024)](https://dgfkt.de/organisation/publikationen/statistik-teil-12-fallzahlplanung/)
+
+T13: [Lineare Regression - Linear Regression (1/2025)](https://dgfkt.de/organisation/publikationen/statistik-teil-13-lineare-regression/)
