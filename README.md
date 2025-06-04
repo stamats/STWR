@@ -40,3 +40,5 @@ T11: [Analyse der Überlebenszeit - Analysis of Survival Times (3/2024)](https:/
 T12: [Fallzahlplanung - Sample Size Planning (4/2024)](https://perfusiologie.de/publikationen/statistik-teil-12-fallzahlplanung/)
 
 T13: [Lineare Regression - Linear Regression (1/2025)](https://perfusiologie.de/publikationen/statistik-teil-13-lineare-regression/)
+
+T14: [Logistische Regression - Logistici Regression (2/2025)](https://perfusiologie.de/publikationen/statistik-teil-14-logistische-regression/)
