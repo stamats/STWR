@@ -42,3 +42,5 @@ T12: [Fallzahlplanung - Sample Size Planning (4/2024)](https://perfusiologie.de/
 T13: [Lineare Regression - Linear Regression (1/2025)](https://perfusiologie.de/publikationen/statistik-teil-13-lineare-regression/)
 
 T14: [Logistische Regression - Logistic Regression (2/2025)](https://perfusiologie.de/publikationen/statistik-teil-14-logistische-regression/)
+
+T15: [Histogramm und Dichteschätzung - Histogram and Density Estimation (2/2025)](https://perfusiologie.de/publikationen/statistik-teil-15-histogramm-und-dichteschaetzung/)
