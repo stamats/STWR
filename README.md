@@ -43,4 +43,4 @@ T13: [Lineare Regression - Linear Regression (1/2025)](https://perfusiologie.de/
 
 T14: [Logistische Regression - Logistic Regression (2/2025)](https://perfusiologie.de/publikationen/statistik-teil-14-logistische-regression/)
 
-T15: [Histogramm und Dichteschätzung - Histogram and Density Estimation (2/2025)](https://perfusiologie.de/publikationen/statistik-teil-15-histogramm-und-dichteschaetzung/)
+T15: [Histogramm und Dichteschätzung - Histogram and Density Estimation (3/2025)](https://perfusiologie.de/publikationen/statistik-teil-15-histogramm-und-dichteschaetzung/)
