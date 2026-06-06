@@ -44,3 +44,9 @@ T13: [Lineare Regression - Linear Regression (1/2025)](https://perfusiologie.de/
 T14: [Logistische Regression - Logistic Regression (2/2025)](https://perfusiologie.de/publikationen/statistik-teil-14-logistische-regression/)
 
 T15: [Histogramm und Dichteschätzung - Histogram and Density Estimation (3/2025)](https://perfusiologie.de/publikationen/statistik-teil-15-histogramm-und-dichteschaetzung/)
+
+T16: [pp- und qq-Plot - pp- and qq-Plot (4/2025)](https://perfusiologie.de/publikationen/statistik-teil-16-pp-und-qq-plot/)
+
+T17: [Diagnostische Plots für die lineare Regression - Diagnostic Plots for Linear Regression (1/2026)](https://perfusiologie.de/publikationen/statistik-teil-17-diagnostische-plots-fuer-die-lineare-regression-01-26/)
+
+T18: [Fehlende Werte - Missing Values (2/2026)](https://perfusiologie.de/magazine/die-perfusiologie-2-26/)
